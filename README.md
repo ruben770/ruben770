@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, Im Rubén Campos 👋
 
-<!--
-**ruben770/ruben770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">About Me</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own projects using Laravel and Express Js.
+- 🌱 I’m currently learning: Node and Express Js, Laravel and back-end related technologies.
+- 🤔 I’m looking for help with: Everything, I'll appreciate any contribution or comment that can make me improve in something, and I'll say thanks!
+- 💬 Ask me about: Web development & PC Games 🤓😎
+- 📫 How to reach me: You can see my resume on my GitHub Page here: https://ruben770.github.io/
+- ⚡ Fun fact: I like cats 🐈
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben770&theme=react&layout=compact" alt="My Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruben770&show_icons=true&theme=nord" alt="My GitHub stats" />
