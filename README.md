@@ -3,11 +3,10 @@
 <h2 align="center">About Me</h2>
 
 
-- 🔭 I’m currently working on my own projects using Laravel and Express Js.
-- 🌱 I’m currently learning: Golang, Node and Express Js. Back-end related technologies.
+- 🔭 I’m currently working on projects using Golang.
+- 🌱 I’m currently learning: Golang, RabbitMQ, Docker and Mongo
 - 🤔 I’m looking for help with: Everything, I'll appreciate any contribution or comment that can make me improve in something, and I'll say thanks!
 - 💬 Ask me about: Web development & PC Games 🤓😎
-- 📫 How to reach me: You can see my resume on my GitHub Page here: https://ruben770.github.io/
 - ⚡ Fun fact: I like cats 🐈
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben770&theme=react&layout=compact" alt="My Languages" />
